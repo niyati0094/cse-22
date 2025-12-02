@@ -1,0 +1,12 @@
+/* Expected Output:
+Headings → Red
+Paragraphs → Green */
+
+
+h2{
+    color: red;
+}
+
+p{
+    color: green;
+}
