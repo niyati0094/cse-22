@@ -1,0 +1,31 @@
+.box {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    background-color: pink;
+  }
+  
+  /* top aligned */
+  .container1 {
+    display: flex;
+    align-items: flex-start;
+    height: 200px;
+    background: lightgray;
+  }
+  
+  /* centered vertically */
+  .container2 {
+    display: flex;
+    align-items: center;
+    height: 200px;
+    background: lightyellow;
+  }
+  
+  /* bottom aligned */
+  .container3 {
+    display: flex;
+    align-items: flex-end;
+    height: 200px;
+    background: lightblue;
+  }
+  

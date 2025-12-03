@@ -1,0 +1,14 @@
+p {
+    color: black;
+  }
+  
+  .highlight {
+    color: blue;
+    font-weight: bold;
+  }
+  
+  #special {
+    color: red;
+    font-size: 20px;
+  }
+  

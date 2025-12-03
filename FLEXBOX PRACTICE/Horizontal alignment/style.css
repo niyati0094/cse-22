@@ -1,0 +1,33 @@
+.box{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    color: pink;
+}
+
+
+
+.container1{
+    display: flex;
+    justify-content: flex-start;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+}
+.container3{
+    display: flex;
+   justify-content: flex-end;
+}
+.container4{
+    display: flex;
+   justify-content: space-between;
+}
+.container5{
+    display: flex;
+    justify-content: space-around;
+}
+.container6{
+    display: flex;
+    justify-content: space-evenly;
+}

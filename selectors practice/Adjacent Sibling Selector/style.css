@@ -1,0 +1,7 @@
+/* Expected Output:
+Only the first paragraph (after h2) is red. */
+
+
+h2+P{
+    color: red;
+}
