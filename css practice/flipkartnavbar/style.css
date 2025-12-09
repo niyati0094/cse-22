@@ -1,0 +1,8 @@
+
+.nav-links{
+    display: flex;
+}
+
+.searchbar search-input{
+    padding: 200px;
+}

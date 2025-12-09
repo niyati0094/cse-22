@@ -1,0 +1,24 @@
+nav {
+    background-color: #333;   /* Navbar ka bg color */
+    padding: 10px;            /* Navbar ke andar space */
+}
+
+nav ul {
+    list-style: none;         /* Bullet points hatana */
+    margin: 0;                /* UL ke bahar ka space remove */
+    padding: 0;               /* UL ke andar ka space remove */
+    display: flex;            /* Items ko row me laata hai */
+    gap: 20px;                /* Items ke beech ka gap */
+}
+
+nav ul li a {
+    text-decoration: none;    /* Underline remove */
+    color: white;             /* Text color */
+    padding: 8px 12px;        /* Text ke around space */
+    display: block;           /* Clickable area ko bada karta hai */
+}
+
+nav ul li a:hover {
+    background-color: #555;   /* Hover pe color change */
+    border-radius: 5px;       /* Thoda round effect */
+}
